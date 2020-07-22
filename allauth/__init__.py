@@ -8,7 +8,7 @@ r"""
 
 """
 
-VERSION = (0, 42, 0, '+flytrex.', 1)
+VERSION = (0, 42, 0, '-flytrex.', 1)
 
 __title__ = 'django-allauth'
 __version_info__ = VERSION
